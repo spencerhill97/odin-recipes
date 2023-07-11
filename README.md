@@ -1,5 +1,5 @@
 
-# Landing Page
+# Odin Recipes
 
 The first project I completed through the Odin Project months ago. Very basic project and there are simple HTML routes to other pages (recipes). The goal of the project was to practice basic HTML semantics, work with ordered/unordered lists, and set up routes to other pages of the project. Implemented responsive design with CSS.
 
