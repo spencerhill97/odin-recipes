@@ -4,11 +4,10 @@
 The first project I completed through the Odin Project months ago. Very basic project and there are simple HTML routes to other pages (recipes). The goal of the project was to practice basic HTML semantics, work with ordered/unordered lists, and set up routes to other pages of the project. Implemented responsive design with CSS.
 
 
-## Acknowledgements
+          
+## Demo
 
- - Inspired by [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
- - Images from [Unsplash Images](https://unsplash.com/)
- - Backround from [Codioful](https://codioful.com/)
+https://spencerhill97.github.io/odin-recipes/
 
 
 
@@ -20,7 +19,9 @@ The first project I completed through the Odin Project months ago. Very basic pr
 </div>
 
 
-          
-## Demo
 
-https://spencerhill97.github.io/odin-recipes/
+## Acknowledgements
+
+ - Inspired by [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
+ - Images from [Unsplash Images](https://unsplash.com/)
+ - Backround from [Codioful](https://codioful.com/)
